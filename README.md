@@ -1,8 +1,29 @@
-# React + Vite
+# 🎬 Projeto Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida com **React** e **Vite**, que permite aos usuários explorar e visualizar informações sobre filmes. O projeto utiliza a API do The Movie Database (TMDb) para obter dados atualizados sobre filmes populares, em cartaz e muito mais.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 CSS Modules / TailwindCSS (dependendo da sua escolha)
+- 📦 Axios (para requisições HTTP)
+- 🌐 API TMDb
+
+---
+
+## 📸 Demonstração
+
+![Demonstração da aplicação](https://user-images.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/preview.png)
+
+
+---
+
+## 🔧 Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/ChrystianStrummiello/Filmes.git
