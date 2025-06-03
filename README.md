@@ -16,7 +16,7 @@ Aplicação web desenvolvida com **React** e **Vite**, que permite aos usuários
 
 ## 📸 Demonstração
 
-![Demonstração da aplicação](https://user-images.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/preview.png)
+![Demonstração da aplicação](https://github.com/ChrystianStrummiello/Filmes/issues/1#issue-3112134807)
 
 
 ---
